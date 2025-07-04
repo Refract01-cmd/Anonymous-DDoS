@@ -1,0 +1,13 @@
+Copyright (c) 2025 Anonymous-DDoS by Refract01-cmd
+
+All rights reserved.
+
+This software (referred to herein as "the Software") is distributed in an encrypted or compiled form, and its source code is not publicly available.
+
+You are granted a limited, non-exclusive, non-transferable license to use and distribute the Software solely in its original, unmodified form.
+
+It is strictly prohibited to decompile, reverse-engineer, disassemble, modify, create derivative works from, or in any way attempt to analyze the underlying functionality or source code of the Software or any part thereof.
+
+Any distribution, sharing, or publication of the Software in a modified version, as a derivative work, or of its source code (whether decrypted or not) on public repositories (e.g., GitHub), other online platforms, or any other medium, is strictly forbidden.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
