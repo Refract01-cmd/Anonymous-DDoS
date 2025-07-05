@@ -35,7 +35,7 @@
 
 1.  Clone this repository (or download the compiled version):
     ```bash
-    git clone [https://github.com/](https://github.com/)[YourGitHubUsername]/Anonymous-DDoS.git
+    git clone https://github.com/Refract01-cmd/Anonymous-DDoS.git
     cd Anonymous-DDoS
     ```
 2.  Install the necessary Python packages:
