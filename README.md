@@ -17,6 +17,7 @@
 * **Multi-threaded:** Capable of launching attacks with multiple concurrent threads for increased impact.
 * **Diverse Attack Methods:**
     * **Slowloris:** Keeps connections open to exhaust server resources.
+    * **HTTP FLOOD:** It floods the target with fast HTTP packets.
     * **UDP Flood:** Floods targets with UDP packets.
     * **TCP Flood:** Initiates and closes numerous TCP connections.
     * **DNS Flood:** Overwhelms DNS servers with excessive domain resolution requests.
